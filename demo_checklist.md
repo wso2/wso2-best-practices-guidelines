@@ -50,7 +50,28 @@ Turn off all notifications from apps/phones/tablets,
 * Close any extraneous desktop windows/apps. 
 * Hide extraneous extensions/bookmarks from the browser
 
+# Demo content / plan
 
+## A slide or two to explain the use case
+Create slides to explain the use case. If it’s a complex integration, show how different components and systems are laid out and explain. This will help to put different aspects of the demo into context.
 
+Explain the role of external tools and apps like Postman, OAuth2 Playground, Guardio React app, mock APIs/services etc… in the context of the demo
+
+## Planning the demo beforehand
+* Plan ahead to include the right amount of information within the allocated time. If it’s one hour, at least keep the last 15 minutes for questions
+* Read the room - Sometimes technical folks like to skip right into a demo
+* If you have a mixed audience, “sprinkle” in operational and business benefits.
+* Prepare for interruptions - This will reduce the time you have to showcase content and use cases you’ve planned
+* Show the right amount of information
+    * It all starts with a story. What story are you trying to tell and show?
+    * Show important parts of the demo relevant to their problem or pain points - message transformation, data mapper, salesforce integration etc…
+    * Go into implementation details, setting up, product config ONLY if the customer explicitly requests it 
+    * Showcasing multiple products/solutions within 1 hour is too much
+    * Most customers cannot digest this amount of information
+    * Stick with one product and use cases and cover relevant features
+    * If the customer is trying to push for multiple products, push back and ask for more time or several sessions to cover everything. Clearly explain why this is necessary
+* Rehearse
+    * Run the demo several times and try to anticipate possible questions and on the fly modifications customers might ask and test those flows
+* Plan to stay focused on the relevant features for the customer. We cannot talk about all the features of the product because it can get lengthy and complex. Stay within the problem domain of the customer and ONLY explain relevant features
 
 
