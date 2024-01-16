@@ -44,6 +44,9 @@ Turn off all notifications from apps/phones/tablets,
 * Switch phone to silent/vibrate mode
 * Discord
 
+If you need to see notifications from the team members, keep your phone in silent mode and keep it on the side.
+
+
 ## 7. Close All Irrelevant Browser tabs and Windows
 
 * Close all non-essential browser tabs and windows/apps. 
