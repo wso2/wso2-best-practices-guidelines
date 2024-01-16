@@ -33,6 +33,8 @@ Linux - Ubuntu/Gnome<br />
 &ensp;&ensp;<kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>8</kbd> : Toggle zoom enable/disable<br/>
 &ensp;&ensp;<kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>+</kbd> / <kbd>-</kbd> : Increase/decrease zoom
 
+Use mouse pointer in Google Presentation to keep focus
+
 ## 5. Use clear fonts
 
 Use clear and neutral fonts when showing code. Default monospaced fonts comes with the OS is a safe choice. Check the default fonts for VSCode, Terminal, IntegrationStudio etc...
