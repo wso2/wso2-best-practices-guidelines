@@ -70,7 +70,9 @@ Learn and use how to whiteboard when necessary.
 # Demo content / plan
 
 ## A slide or two to explain the use case
-Create slides to explain the use case. If it’s a complex integration, show how different components and systems are laid out and explain. This will help to put different aspects of the demo into context.
+Create slides to explain the use case. If it’s a complex integration, show how different components and systems are laid out and explain. This will help to put different aspects of the demo into context. Create a clear diagram to visualize the use case.
+
+Do a tell-show-tell at the beginning and at the end.
 
 Explain the role of external tools and apps like Postman, OAuth2 Playground, Guardio React app, mock APIs/services etc… in the context of the demo
 
