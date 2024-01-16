@@ -33,6 +33,8 @@ Linux - Ubuntu/Gnome<br />
 &ensp;&ensp;<kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>8</kbd> : Toggle zoom enable/disable<br/>
 &ensp;&ensp;<kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>+</kbd> / <kbd>-</kbd> : Increase/decrease zoom
 
+Use mouse pointer in Google Presentation to keep focus
+
 ## 5. Use clear fonts
 
 Use clear and neutral fonts when showing code. Default monospaced fonts comes with the OS is a safe choice. Check the default fonts for VSCode, Terminal, IntegrationStudio etc...
@@ -44,16 +46,35 @@ Turn off all notifications from apps/phones/tablets,
 * Switch phone to silent/vibrate mode
 * Discord
 
+If you need to see notifications from the team members, keep your phone in silent mode and keep it on the side.
+
+
 ## 7. Close All Irrelevant Browser tabs and Windows
 
 * Close all non-essential browser tabs and windows/apps. 
 * Close any extraneous desktop windows/apps. 
 * Hide extraneous extensions/bookmarks from the browser
 
+## 8. Using graphical tools
+
+Use graphical tools such as Postman when applicable. Minimize terminal usage
+
+## 9. Utilizing multiple screens (if you have)
+
+Utilize multiple screens to have presentation/slide/notes/chat separate on different screens
+
+## 10. Prepare for whiteboarding when necessary
+
+Learn and use how to whiteboard when necessary.
+
 # Demo content / plan
 
 ## A slide or two to explain the use case
-Create slides to explain the use case. If it’s a complex integration, show how different components and systems are laid out and explain. This will help to put different aspects of the demo into context.
+Create slides to explain the use case. If it’s a complex integration, show how different components and systems are laid out and explain. This will help to put different aspects of the demo into context. Create a clear diagram to visualize the use case.
+
+Personalize the experience - Devportal, Asgardeo Orgs etc...
+
+Do a tell-show-tell at the beginning and at the end.
 
 Explain the role of external tools and apps like Postman, OAuth2 Playground, Guardio React app, mock APIs/services etc… in the context of the demo
 
