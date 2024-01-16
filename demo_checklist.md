@@ -55,6 +55,18 @@ If you need to see notifications from the team members, keep your phone in silen
 * Close any extraneous desktop windows/apps. 
 * Hide extraneous extensions/bookmarks from the browser
 
+## 8. Using graphical tools
+
+Use graphical tools such as Postman when applicable. Minimize terminal usage
+
+## 9. Utilizing multiple screens (if you have)
+
+Utilize multiple screens to have presentation/slide/notes/chat separate on different screens
+
+## 10. Prepare for whiteboarding when necessary
+
+Learn and use how to whiteboard when necessary.
+
 # Demo content / plan
 
 ## A slide or two to explain the use case
